@@ -1,0 +1,21 @@
+{
+  "name": "sonomin",
+  "displayName": "Sonomin",
+  "description": "Sonokai + Min Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sonomin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sonomin-color-theme.json"
+      }
+    ]
+  }
+}

@@ -3,6 +3,17 @@
   "displayName": "Sonomin",
   "description": "Sonokai + Min Dark",
   "version": "0.0.1",
+  "publisher": "NewKanvas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewKanvas/Sonomin"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "monokai",
+    "sonokai"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },

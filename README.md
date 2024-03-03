@@ -1,5 +1,5 @@
 
-# Min Theme
+# Sonomin Theme
 
 A minimalistic dark theme for VS Code.
 

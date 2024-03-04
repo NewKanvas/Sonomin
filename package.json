@@ -2,11 +2,11 @@
   "name": "sonomin",
   "displayName": "Sonomin",
   "description": "Sonokai + Min Dark",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "NewKanvas",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NewKanvas/Sonomin"
+    "url": "https://github.com/NewKanvas/sonomin.git"
   },
   "keywords": [
     "theme",

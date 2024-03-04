@@ -3,12 +3,12 @@
 
 A minimalistic dark theme for VS Code.
 
-![preview](#)
+> preview
 
 
 ## Installation
 
-1. Install theme from the [Marketplace](#)
+1. Install theme from the Marketplace
 2. Go to `File > Preferences > Color Theme`
 3. Select `Sonomin`
 
